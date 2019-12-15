@@ -8,9 +8,9 @@
         "args": [
           "-std=c++17",
           "-stdlib=libc++",
-          "p002.cpp",
+          "p003.cpp",
           "-o",
-          "p002.out"
+          "p003.out"
         ],
         "group": {
           "kind": "build",
