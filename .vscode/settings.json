@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "limits": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "iterator": "cpp"
     }
 }
